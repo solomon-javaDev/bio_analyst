@@ -1,0 +1,5 @@
+01/07/2025: 1. Protein Analysis Features; emdpoints to calculate the molecular weight of a peptide
+            using amino acid data.
+            Endpoint to return the amino acid composition of a peptide.
+            2. Validation and Error Handling: Validation of input data, Return meaningful error messages
+            for invalid requests.
